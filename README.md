@@ -1,3 +1,5 @@
+> ⚠️ Attention! This project will be continued here: https://github.com/OSPRS/DataDonation
+
 # DataDonation
 
 The Data Donation Service for the CovApp
